@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://avatars.githubusercontent.com/u/292675736?v=4" alt="Axel Gustav Lindström avatar" height="160" />
+    <img src="[https://avatars.githubusercontent.com/u/292675736?v=4](https://avatars.githubusercontent.com/u/292675736?s=400&u=f45a68d0d3b6b66ecb4d52042e100607d0b5799c&v=4)" alt="Axel Gustav Lindström avatar" height="160" />
   </a>
 </p>
 
@@ -81,61 +81,3 @@ I value clean interfaces, reproducible experiments, and minimal abstractions tha
 ## Languages
 
 - **Python** — primary language for research and engineering
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://github-readme-stats-one-hazel.vercel.app/api?username=Axelgustavlindstrom&show_icons=true&theme=default" height="180" />
-  </a>
-  <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://github-readme-stats-one-hazel.vercel.app/api/top-langs/?username=Axelgustavlindstrom&layout=compact&theme=default" height="180" />
-  </a>
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://github-readme-stats.herokuapp.com?user=Axelgustavlindstrom&show_icons=true&theme=default" height="150" />
-  </a>
-</p>
-
-## Activity Graph
-
-<p align="center">
-  <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axelgustavlindstrom&theme=default" />
-  </a>
-</p>
-
-## Visitor Counter
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Axelgustavlindstrom" />
-</p>
-
----
-
-## Connect With Me
-
-If any of my research areas overlap with what you are working on, I am open to thoughtful conversation and collaboration.
-
-<p align="center">
-  <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://img.shields.io/badge/GitHub-Axelgustavlindstrom-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:Axelgustavlindstrom@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Axelgustavlindstrom%40gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-> “Good systems ask for help. Great systems know when to ask, how to ask, and when to stop.”
-
----
-
-*Last updated: 2026-07-17*
