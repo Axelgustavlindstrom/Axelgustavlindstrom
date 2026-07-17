@@ -12,16 +12,10 @@
   <a href="https://github.com/Axelgustavlindstrom">
     <img src="https://img.shields.io/badge/GitHub-Axelgustavlindstrom-181717?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:Axelgustavlindstrom@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Axelgustavlindstrom%40gmail.com-FF642E?style=flat-square&logo=email" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/samuel-henry-372b71b5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
-  </a>
 </p>
 
 <p align="center">
-  _Stockholm, Sweden_
+  Stockholm, Sweden
 </p>
 
 ---
