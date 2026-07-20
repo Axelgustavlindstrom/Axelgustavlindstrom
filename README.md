@@ -1,4 +1,4 @@
-# 안녕하세요, Axel Gustav Lindstrom 👋
+#Axel Gustav Lindstrom 👋
 
 <p align="center">
   <a href="https://github.com/Axelgustavlindstrom">
