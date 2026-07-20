@@ -1,4 +1,3 @@
-#Axel Gustav Lindstrom 👋
 
 <p align="center">
   <a href="https://github.com/Axelgustavlindstrom">
