@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Axelgustavlindstrom">
-    <img src="https://avatars.githubusercontent.com/u/292675736?v=4](https://avatars.githubusercontent.com/u/292675736?s=400&u=f45a68d0d3b6b66ecb4d52042e100607d0b5799c&v=4" alt="Axel Gustav Lindström avatar" height="160" />
+    <img src="https://avatars.githubusercontent.com/u/292675736?s=400&u=f45a68d0d3b6b66ecb4d52042e100607d0b5799c&v=4" alt="Axel Gustav Lindström avatar" height="160" />
   </a>
 </p>
 
