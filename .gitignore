@@ -1,17 +1,20 @@
-/.env
-/node_modules
-/__pycache__
-/.venv
-/venv
-/dist
-/build
-/coverage
-.idea/
-.vscode/
+# Dependencies / environments
+.env
+.env.*
+.venv
+venv
+node_modules
+
+# Build / package outputs
+dist
+build
+__pycache__
+*.pyc
+.next
+out
+coverage
+
+# OS / editor metadata
 .DS_Store
-Thumbs.db
-desktop.ini
-.env.backup
-.env.bak
-*.egg-info/
-.eggs/
+.idea
+.vscode
