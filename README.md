@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/Axelgustavlindstrom">
     <img src="https://avatars.githubusercontent.com/u/292675736?s=400&u=f45a68d0d3b6b66ecb4d52042e100607d0b5799c&v=4" alt="Axel Gustav Lindström avatar" height="160" />
@@ -10,6 +9,9 @@
 <p align="center">
   <a href="https://github.com/Axelgustavlindstrom">
     <img src="https://img.shields.io/badge/GitHub-Axelgustavlindstrom-181717?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Axelgustavlindstrom/Axelgustavlindstrom">
+    <img src="https://img.shields.io/badge/Source-Axelgustavlindstrom%2FAxelgustavlindstrom-181717?style=flat-square&logo=github" alt="Source" />
   </a>
 </p>
 
