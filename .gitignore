@@ -14,9 +14,22 @@ __pycache__
 out
 coverage
 
+# Python packaging artifacts
+*.egg-info/
+.eggs/
+
 # OS / editor metadata
 .DS_Store
 .idea
 .vscode
 .vercel
 *.tsbuildinfo
+Thumbs.db
+desktop.ini
+
+# Environment backups
+.env.backup
+.env.bak
+
+# Local caches
+.cache/
